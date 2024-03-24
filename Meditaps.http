@@ -1,0 +1,6 @@
+@Meditaps_HostAddress = http://localhost:5216
+
+GET {{Meditaps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
